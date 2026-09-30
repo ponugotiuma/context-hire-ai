@@ -46,8 +46,8 @@ Feature | What It Does
 ### *🏃‍♂️ Quick Start*
 
 1. *Clone + Setup*
-git clone https://github.com/your-username/contexthire-ai
-cd contexthire-ai
+git clone https://github.com/ponugotiuma/context-hire-ai
+cd context-hire-ai
 
 
 2. *Backend* 🔧
